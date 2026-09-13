@@ -8,7 +8,7 @@
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D">
-    <img alt="React" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D">
+    <img alt="React" src="https://img.shields.io/badge/Rect.js-35495E?logo=vuedotjs&logoColor=4FC08D">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green"
   </samp>
